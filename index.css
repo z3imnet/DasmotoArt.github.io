@@ -1,0 +1,51 @@
+
+.toph {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url("E:/projects/DasmotoArt/resources/images/pattern.jpeg");
+    text-align: center;
+}
+
+
+.h21 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+.h22 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+.h23 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+h3{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: black;
+}
+
+.par1{
+    font-family: Helvetica;
+    color: black;
+    align-items: left;
+}
+
+.par2{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
